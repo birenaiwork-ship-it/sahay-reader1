@@ -1,0 +1,6 @@
+{
+  "name": "Sahaya Reader",
+  "description": "Accessible book reader and audiobook generator for blind and visually impaired students with English-to-Odia translation and speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
